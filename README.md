@@ -7,7 +7,12 @@ When OBS silently switches an audio device, restore your saved setup with **one 
 
 The settings are organised into framed groups: **Presets · Items to restore · Auto-save slots · Automation · Filters (VST settings) · Dock · Move presets to another PC**. (OBS scripts cannot color group backgrounds, so groups are shown as titled boxes.)
 
-## Screenshots<img width="1246" height="400" alt="スクリーンショット 2026-10-19 170250" src="https://github.com/user-attachments/assets/5ecc202b-d9a4-4570-b8d9-eadfa07a32b0" />
+## Screenshots
+
+|表紙|中面1|
+|---|---|
+|![]([https://github.com/user-attachments/assets/831bded3-3206-4c13-b644-657b248e7b94])|![]([https://github.com/user-attachments/assets/5ecc202b-d9a4-4570-b8d9-eadfa07a32b0])|
+<img width="1246" height="400" alt="スクリーンショット 2026-10-19 170250" src="https://github.com/user-attachments/assets/5ecc202b-d9a4-4570-b8d9-eadfa07a32b0" />
 <img width="972" height="254" alt="スクリーンショット 2026-10-19 171116" src="https://github.com/user-attachments/assets/3eab24d1-8c79-4d9a-a7d0-82ee7090e88a" />
 
 
