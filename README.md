@@ -7,6 +7,13 @@ When OBS silently switches an audio device, restore your saved setup with **one 
 
 The settings are organised into framed groups: **Presets · Items to restore · Auto-save slots · Automation · Filters (VST settings) · Dock · Move presets to another PC**. (OBS scripts cannot color group backgrounds, so groups are shown as titled boxes.)
 
+## Screenshots<img width="1246" height="400" alt="スクリーンショット 2026-10-19 170250" src="https://github.com/user-attachments/assets/5ecc202b-d9a4-4570-b8d9-eadfa07a32b0" />
+<img width="972" height="254" alt="スクリーンショット 2026-10-19 171116" src="https://github.com/user-attachments/assets/3eab24d1-8c79-4d9a-a7d0-82ee7090e88a" />
+
+
+<img width="641" height="746" alt="スクリーンショット 2026-10-19 164348" src="https://github.com/user-attachments/assets/1dd3068a-8b59-47c5-b8b4-8c9f9b870fdf" />
+<img width="644" height="877" alt="スクリーンショット 2026-10-19 164323" src="https://github.com/user-attachments/assets/831bded3-3206-4c13-b644-657b248e7b94" />
+
 ## What is saved
 
 All *Audio Input Capture* and *Audio Output Capture* sources (including the global Desktop Audio and Mic/Aux) and the audio device of **Video Capture Device** sources (including the "use custom audio device" switch and output mode). For each source the preset stores:
