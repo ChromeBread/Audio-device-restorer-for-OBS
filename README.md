@@ -11,7 +11,7 @@ The settings are organised into framed groups: **Presets · Items to restore · 
 
 |表紙|中面1|
 |---|---|
-|![]([https://github.com/user-attachments/assets/831bded3-3206-4c13-b644-657b248e7b94])|![]([https://github.com/user-attachments/assets/5ecc202b-d9a4-4570-b8d9-eadfa07a32b0])|
+|![](https://github.com/user-attachments/assets/1dd3068a-8b59-47c5-b8b4-8c9f9b870fdf)|![](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151205/20151205171532.jpg)|
 <img width="1246" height="400" alt="スクリーンショット 2026-10-19 170250" src="https://github.com/user-attachments/assets/5ecc202b-d9a4-4570-b8d9-eadfa07a32b0" />
 <img width="972" height="254" alt="スクリーンショット 2026-10-19 171116" src="https://github.com/user-attachments/assets/3eab24d1-8c79-4d9a-a7d0-82ee7090e88a" />
 
